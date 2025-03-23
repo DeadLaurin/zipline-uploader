@@ -2,7 +2,7 @@
 
 A minimal and modern Chrome Extension to quickly upload images or screenshots to your self-hosted [Zipline](https://github.com/diced/zipline) server.
 
-> Inspired by the functionality and ease-of-use of the excellent [Chibisafe Uploader](https://github.com/chibisafe/chibisafe-uploader).
+> Inspired by the functionality and ease-of-use of the excellent [Chibisafe Extension](https://github.com/chibisafe/chibisafe-extension).
 
 ---
 
@@ -47,7 +47,7 @@ A minimal and modern Chrome Extension to quickly upload images or screenshots to
 
 ## 🙏 Credits
 
-- 🧠 Inspired by: [Chibisafe Uploader](https://github.com/chibisafe/chibisafe-uploader)
+- 🧠 Inspired by: [Chibisafe Extension](https://github.com/chibisafe/chibisafe-extension)
 - 💾 Backend: [Zipline](https://github.com/diced/zipline) — A powerful, self-hosted media upload solution.
 
 ---
